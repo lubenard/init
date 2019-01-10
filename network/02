@@ -1,1 +1,5 @@
+# a)
 ifconfig | grep broadcast | rev | cut -c1-13 | rev
+
+# b)
+arp -a
