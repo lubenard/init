@@ -1,0 +1,28 @@
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  avahi-daemon
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ + ]  gdomap
+ [ - ]  hwclock.sh
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  network-manager
+ [ + ]  networking
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ + ]  sddm
+ [ + ]  speech-dispatcher
+ [ + ]  ssh
+ [ - ]  sudo
+ [ + ]  udev
+ [ + ]  unattended-upgrades
+ [ - ]  x11-common
+
+ C'est les services lances au demarrage, par systemd
