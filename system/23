@@ -1,4 +1,0 @@
-Pour se connecter en session graphique, l'option sera propose au demarrage de l'ordinateur.
-Pour se connecter en ssh, il faut taper:
-
-ssh monuser@monip
