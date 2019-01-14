@@ -25,4 +25,4 @@
  [ + ]  unattended-upgrades
  [ - ]  x11-common
 
- C'est les services lances au demarrage, par systemd
+ C'est les services lances au demarrage, par init.d, dans /etc/init.d
