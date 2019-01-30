@@ -1,10 +1,10 @@
 # init
 
-Init est un projet obligatoir au départ en stage. 
+Init est un projet obligatoire au départ en stage. 
 
 C'est un projet qui mêle Linux et Réseau.
 
-Une partie est à faire sur machine virtuelle, sous Debian.
+Une partie est à faire sur machine virtuelle, sous Debian (obligatoirement Debian).
 
 # Récuperer le sujet
 
